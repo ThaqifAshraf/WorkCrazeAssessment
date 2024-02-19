@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Case-Insensitive Search</description>
+   <name>TC-EMP-SRCH-19.4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>450202b3-96f9-4e16-b0a9-098b6b8597f1</testCaseGuid>
+</TestCaseEntity>

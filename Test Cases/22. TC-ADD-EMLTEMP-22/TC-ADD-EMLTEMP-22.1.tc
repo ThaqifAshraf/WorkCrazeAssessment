@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Email Template with Valid Data</description>
+   <name>TC-ADD-EMLTEMP-22.1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff98e46d-b050-4af6-b27f-2a1199261af1</testCaseGuid>
+</TestCaseEntity>

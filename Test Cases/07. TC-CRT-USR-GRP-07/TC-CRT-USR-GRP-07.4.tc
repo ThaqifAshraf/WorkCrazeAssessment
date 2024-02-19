@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Failed User Group Creation with Duplicate Name</description>
+   <name>TC-CRT-USR-GRP-07.4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcea141e-c303-4754-803e-f0cf7ef2aaf2</testCaseGuid>
+</TestCaseEntity>

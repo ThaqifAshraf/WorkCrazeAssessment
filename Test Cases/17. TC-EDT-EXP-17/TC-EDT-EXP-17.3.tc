@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Failed Experience Edit with Invalid Data</description>
+   <name>TC-EDT-EXP-17.3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1cb3d51-ca33-48b9-9fbb-6fd7dc93b65d</testCaseGuid>
+</TestCaseEntity>

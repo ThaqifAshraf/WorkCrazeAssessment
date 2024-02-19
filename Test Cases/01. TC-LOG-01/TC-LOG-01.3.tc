@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Failed Login with Incorrect Password</description>
+   <name>TC-LOG-01.3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>02b63785-5afb-4bee-8b47-156f56ed9657</testCaseGuid>
+</TestCaseEntity>

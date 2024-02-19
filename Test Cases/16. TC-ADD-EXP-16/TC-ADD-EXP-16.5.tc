@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Experience Creation with Special Characters</description>
+   <name>TC-ADD-EXP-16.5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dba1c524-a275-4a79-86ad-a212620a6856</testCaseGuid>
+</TestCaseEntity>

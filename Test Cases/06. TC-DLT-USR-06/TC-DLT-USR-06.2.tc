@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Deletion Without Confirmation</description>
+   <name>TC-DLT-USR-06.2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1343a992-141c-457c-b814-1e52bcdb531d</testCaseGuid>
+</TestCaseEntity>

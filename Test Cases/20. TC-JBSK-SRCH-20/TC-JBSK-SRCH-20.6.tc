@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search for Job Seeker by Email Address</description>
+   <name>TC-JBSK-SRCH-20.6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bdeb6e30-7299-4154-8e44-9c0b6325c571</testCaseGuid>
+</TestCaseEntity>

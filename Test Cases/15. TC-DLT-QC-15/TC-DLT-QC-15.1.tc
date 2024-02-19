@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete Active Qualification</description>
+   <name>TC-DLT-QC-15.1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3c562db5-0729-43e6-97ee-313ec9cd340d</testCaseGuid>
+</TestCaseEntity>

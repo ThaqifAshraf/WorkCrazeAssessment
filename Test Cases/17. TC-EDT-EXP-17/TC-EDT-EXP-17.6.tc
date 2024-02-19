@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Failed Experience Edit with Duplicate Range</description>
+   <name>TC-EDT-EXP-17.6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc903955-bcbf-4aca-967d-533aeb18c905</testCaseGuid>
+</TestCaseEntity>

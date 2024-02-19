@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Case-Insensitive Search</description>
+   <name>TC-JBSK-SRCH-20.4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>03db98d5-b692-4596-9e10-85d9bbbf2903</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete Active Experience</description>
+   <name>TC-DLT-EXP-18.1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c23b7e53-e926-4bee-876e-fe6cf89f0392</testCaseGuid>
+</TestCaseEntity>

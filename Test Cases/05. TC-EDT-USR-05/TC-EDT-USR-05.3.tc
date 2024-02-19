@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Successful User Password Change</description>
+   <name>TC-EDT-USR-05.3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc5bed86-e5eb-4f2e-9f50-b50bbcd26ac9</testCaseGuid>
+</TestCaseEntity>

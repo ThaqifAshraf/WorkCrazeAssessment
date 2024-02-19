@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search for Employer by Email Address</description>
+   <name>TC-EMP-SRCH-19.6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0065ef82-a41b-4ad0-a5e9-37c8810837e9</testCaseGuid>
+</TestCaseEntity>

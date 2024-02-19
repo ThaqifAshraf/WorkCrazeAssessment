@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Job seekers with &quot;Actively looking for a job&quot; 
+status are displayed</description>
+   <name>TC-FLTR-STS-21.1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c1f4567-1f82-4672-a6a1-b8e32f1804de</testCaseGuid>
+</TestCaseEntity>

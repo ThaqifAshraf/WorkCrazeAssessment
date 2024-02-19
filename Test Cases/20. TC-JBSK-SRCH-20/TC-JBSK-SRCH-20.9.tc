@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search with Invalid Email Format</description>
+   <name>TC-JBSK-SRCH-20.9</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>36de1c84-05ab-42a2-8ae0-af71f0876861</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Deletion Confirmation Cancelled</description>
+   <name>TC-DLT-USR-GRP-09.3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38770852-98aa-4ba6-8414-d298af24a80e</testCaseGuid>
+</TestCaseEntity>

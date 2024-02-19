@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_emailTemplates</name>
+   <tag></tag>
+   <elementGuidId>8ff99f62-f127-420d-b06e-a016c797f393</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//c-sidebar[@id='sidebar']/perfect-scrollbar/div/div/c-sidebar-nav/c-sidebar-nav-link[8]/a/c-sidebar-nav-link-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>c-sidebar-nav-link-content</value>
+      <webElementGuid>a62f65a0-ec15-46d7-89da-0dda7fd9a581</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email Templates</value>
+      <webElementGuid>169a5665-c975-43b4-807e-354bd7180e82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/perfect-scrollbar[1]/div[@class=&quot;ps&quot;]/div[@class=&quot;ps-content&quot;]/c-sidebar-nav[@class=&quot;sidebar-nav&quot;]/c-sidebar-nav-link[@class=&quot;nav-item ng-star-inserted&quot;]/a[@class=&quot;nav-link ng-star-inserted&quot;]/c-sidebar-nav-link-content[1]</value>
+      <webElementGuid>b35b703c-bbf6-4e4a-abcd-b60cb4635db8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//c-sidebar[@id='sidebar']/perfect-scrollbar/div/div/c-sidebar-nav/c-sidebar-nav-link[8]/a/c-sidebar-nav-link-content</value>
+      <webElementGuid>ac95c813-3f8d-4265-afe1-2a3dc6dccb88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Seekers'])[1]/following::c-sidebar-nav-link-content[1]</value>
+      <webElementGuid>77525a1d-408c-4234-8072-190edbc6fabb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/following::c-sidebar-nav-link-content[2]</value>
+      <webElementGuid>0e7839bd-b300-49d7-895b-a0939bd84dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thaqif_Temp'])[2]/preceding::c-sidebar-nav-link-content[1]</value>
+      <webElementGuid>d8ae6511-4356-4160-ab2f-933f6b15fbf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Change Password'])[1]/preceding::c-sidebar-nav-link-content[1]</value>
+      <webElementGuid>ce08d9a7-9d0e-47d3-862e-7eecac3349c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email Templates']/parent::*</value>
+      <webElementGuid>4cca2214-a81b-4ede-9feb-f975b7356c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//c-sidebar-nav-link[8]/a/c-sidebar-nav-link-content</value>
+      <webElementGuid>4dd0d015-4aca-46b2-9a21-07210d41c9fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//c-sidebar-nav-link-content[(text() = 'Email Templates' or . = 'Email Templates')]</value>
+      <webElementGuid>c9e20c22-031d-4602-86cd-e6371f9dd045</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

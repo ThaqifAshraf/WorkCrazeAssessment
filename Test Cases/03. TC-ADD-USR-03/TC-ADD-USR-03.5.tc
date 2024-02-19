@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Created with &quot;Inactive&quot; Status</description>
+   <name>TC-ADD-USR-03.5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ffdcc30-0a09-4df5-9958-efe23e92d880</testCaseGuid>
+</TestCaseEntity>

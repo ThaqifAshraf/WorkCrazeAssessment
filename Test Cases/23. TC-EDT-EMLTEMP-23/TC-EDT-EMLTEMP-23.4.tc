@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit Email Template with Empty Fields</description>
+   <name>TC-EDT-EMLTEMP-23.4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4dd2582a-230e-48a6-bc21-e6d32d3259cc</testCaseGuid>
+</TestCaseEntity>

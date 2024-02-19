@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Experience Deletion Without Confirmation</description>
+   <name>TC-DLT-EXP-18.2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>011db636-4091-4377-b452-5e6427e13216</testCaseGuid>
+</TestCaseEntity>

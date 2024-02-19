@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_UserGroups</name>
+   <tag></tag>
+   <elementGuidId>b6cd02a1-32c5-4b78-a484-d30eb3652b83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//c-sidebar[@id='sidebar']/perfect-scrollbar/div/div/c-sidebar-nav/c-sidebar-nav-link[2]/a/c-sidebar-nav-link-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>c-sidebar-nav-link-content</value>
+      <webElementGuid>83be7dc7-d6c3-4929-9372-0fc3d8a77ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>User Groups</value>
+      <webElementGuid>43d1103e-3bc6-48d0-b19b-0dae8e5c40c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/perfect-scrollbar[1]/div[@class=&quot;ps&quot;]/div[@class=&quot;ps-content&quot;]/c-sidebar-nav[@class=&quot;sidebar-nav&quot;]/c-sidebar-nav-link[@class=&quot;nav-item ng-star-inserted&quot;]/a[@class=&quot;nav-link ng-star-inserted&quot;]/c-sidebar-nav-link-content[1]</value>
+      <webElementGuid>8cd2b8e3-a193-42a6-ad6a-1d4f6bdab673</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//c-sidebar[@id='sidebar']/perfect-scrollbar/div/div/c-sidebar-nav/c-sidebar-nav-link[2]/a/c-sidebar-nav-link-content</value>
+      <webElementGuid>7f2706bf-e468-47a9-9e16-60f2804322d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::c-sidebar-nav-link-content[1]</value>
+      <webElementGuid>d252e153-6a57-4db9-9e17-dc355c618b9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thaqif_Temp'])[1]/following::c-sidebar-nav-link-content[2]</value>
+      <webElementGuid>9a6a8892-af18-4818-aaf4-424fcd2e4bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Industries'])[1]/preceding::c-sidebar-nav-link-content[1]</value>
+      <webElementGuid>40a63db7-cd84-4a5b-934e-4922f04093eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualification'])[1]/preceding::c-sidebar-nav-link-content[2]</value>
+      <webElementGuid>3a817069-e10b-464b-ae0e-d2f6fe6cacf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='User Groups']/parent::*</value>
+      <webElementGuid>b5937782-9ba3-444c-b1ee-dcbe450b7a92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//c-sidebar-nav-link[2]/a/c-sidebar-nav-link-content</value>
+      <webElementGuid>533b913a-61dd-4cd3-a0a7-e2c45a2fceaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//c-sidebar-nav-link-content[(text() = 'User Groups' or . = 'User Groups')]</value>
+      <webElementGuid>fac0788c-1f29-4738-bd28-98789578464f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

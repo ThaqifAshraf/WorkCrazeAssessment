@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Failed Industry Creation with Missing Data</description>
+   <name>TC-ADD-IND-10.2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7519b32-5fd2-4c32-b8a8-b19406c3bc06</testCaseGuid>
+</TestCaseEntity>

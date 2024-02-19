@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit Permissions for Specific Categories</description>
+   <name>TC-EDT-USR-GRP-08.4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f9798fa1-94fd-4bef-9d2a-5631516a12da</testCaseGuid>
+</TestCaseEntity>

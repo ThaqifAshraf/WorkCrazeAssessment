@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Qualification Edit without Changes</description>
+   <name>TC-EDT-QC-14.2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8c725bc3-e7e7-4dbe-883e-2b92708032e2</testCaseGuid>
+</TestCaseEntity>

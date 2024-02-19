@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete Active Industry</description>
+   <name>TC-DLT-IND-12.1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7c15b6b-e0a5-4b0b-a5d4-881ce4e0a19f</testCaseGuid>
+</TestCaseEntity>

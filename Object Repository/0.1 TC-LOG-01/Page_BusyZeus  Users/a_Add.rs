@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add</name>
+   <tag></tag>
+   <elementGuidId>aff5f54e-02e0-4310-9082-ddfc9572ad65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.default</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Add')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0697ca1d-eaec-43cc-9976-ce5162403677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn default</value>
+      <webElementGuid>8ce3edd1-f75f-46e1-b166-26a8b5703504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add</value>
+      <webElementGuid>09d7ba1a-9bbf-48d6-87e7-4ab5c411569e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-header-fixed page-quick-sidebar-over-content&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper d-flex flex-column&quot;]/div[@class=&quot;body flex-grow-1&quot;]/c-container[@class=&quot;h-auto container-lg&quot;]/app-menus[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;portlet box yellow-crusta float-none content-box my-md-4 mx-md-3 border-0&quot;]/div[@class=&quot;portlet-body form bg-transparent p-3 border-0&quot;]/div[@class=&quot;actions text-end mb-lg-0 mb-3&quot;]/a[@class=&quot;btn default&quot;]</value>
+      <webElementGuid>a985627e-fe27-4877-9f95-4d2b765aac5a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add')]</value>
+      <webElementGuid>ca1787f5-4ae7-4e6a-8572-f40f1e933510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[2]/following::a[1]</value>
+      <webElementGuid>b2cce000-ab49-4a8d-a9d6-c5e3c6e60ac0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>02c87dad-8708-48a6-9847-9945fbde113f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='#'])[1]/preceding::a[1]</value>
+      <webElementGuid>e5fe7b32-8693-4f4e-9a25-24cfc92b6792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::a[1]</value>
+      <webElementGuid>be0d6b69-3d25-4519-847e-2f0458910216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add']/parent::*</value>
+      <webElementGuid>ce2c6a7c-c749-49e1-bff1-79d5bd6a7aad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>fc1ef73c-a5b8-43de-bdca-b8302b00c6c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = ' Add' or . = ' Add')]</value>
+      <webElementGuid>846dc83f-aa9f-4c0c-ba41-db29912199f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

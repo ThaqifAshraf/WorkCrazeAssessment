@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Successful Login with Valid Credentials</description>
+   <name>TC-LOG-01.1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b98176d2-92c2-43a0-bc9e-428d9ad63440</testCaseGuid>
+</TestCaseEntity>

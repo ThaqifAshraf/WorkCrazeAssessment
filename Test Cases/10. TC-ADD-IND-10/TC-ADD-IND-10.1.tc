@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Industry with Valid Data</description>
+   <name>TC-ADD-IND-10.1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fb433d71-b00e-459b-a7ad-cc7f956659db</testCaseGuid>
+</TestCaseEntity>

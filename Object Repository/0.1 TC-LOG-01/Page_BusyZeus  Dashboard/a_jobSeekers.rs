@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_jobSeekers</name>
+   <tag></tag>
+   <elementGuidId>4bc890cf-43e4-43e7-a7a0-213a8bc72723</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//c-sidebar[@id='sidebar']/perfect-scrollbar/div/div/c-sidebar-nav/c-sidebar-nav-link[7]/a/c-sidebar-nav-link-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>c-sidebar-nav-link-content</value>
+      <webElementGuid>56614707-df8f-4588-ac8f-8fe1fd2f8003</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Job Seekers</value>
+      <webElementGuid>972b0a00-cf5b-45d5-8755-a21e45573185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sidebar&quot;)/perfect-scrollbar[1]/div[@class=&quot;ps&quot;]/div[@class=&quot;ps-content&quot;]/c-sidebar-nav[@class=&quot;sidebar-nav&quot;]/c-sidebar-nav-link[@class=&quot;nav-item ng-star-inserted&quot;]/a[@class=&quot;nav-link ng-star-inserted&quot;]/c-sidebar-nav-link-content[1]</value>
+      <webElementGuid>c66e445c-3ffc-4e22-a29b-959c701717a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//c-sidebar[@id='sidebar']/perfect-scrollbar/div/div/c-sidebar-nav/c-sidebar-nav-link[7]/a/c-sidebar-nav-link-content</value>
+      <webElementGuid>8954e57e-a4b3-45db-af96-a7ac0d659970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/following::c-sidebar-nav-link-content[1]</value>
+      <webElementGuid>5541888e-0a40-4e8d-aed6-1da53c78ecc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Experience'])[1]/following::c-sidebar-nav-link-content[2]</value>
+      <webElementGuid>695cbeb9-87ce-4319-8546-138cfa8e2fb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email Templates'])[1]/preceding::c-sidebar-nav-link-content[1]</value>
+      <webElementGuid>b858e089-dc98-4f48-913e-4c45cc49a818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thaqif_Temp'])[2]/preceding::c-sidebar-nav-link-content[2]</value>
+      <webElementGuid>052b4714-cdd2-4c72-9edc-5466e41802c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Job Seekers']/parent::*</value>
+      <webElementGuid>0f58d4d3-fc0e-4a66-a3f2-0f025aa41eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//c-sidebar-nav-link[7]/a/c-sidebar-nav-link-content</value>
+      <webElementGuid>18d8705e-a125-4ebd-a54a-81218f106cfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//c-sidebar-nav-link-content[(text() = 'Job Seekers' or . = 'Job Seekers')]</value>
+      <webElementGuid>d6622e83-e0e6-4f1a-912c-03a2c3f4aed3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

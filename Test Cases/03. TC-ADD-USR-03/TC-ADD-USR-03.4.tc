@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Failed User Creation with Duplicate Email</description>
+   <name>TC-ADD-USR-03.4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd64c315-0dcd-4d67-9aa9-4f2d377acefe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Job seekers with &quot;Not actively looking for a job&quot; 
+status are displayed</description>
+   <name>TC-FLTR-STS-21.2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49b90f63-a4ad-435d-8815-e5c0b8b5db48</testCaseGuid>
+</TestCaseEntity>

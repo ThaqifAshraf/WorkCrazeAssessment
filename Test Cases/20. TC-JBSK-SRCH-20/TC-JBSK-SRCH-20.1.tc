@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search for Job Seeker by Exact Name</description>
+   <name>TC-JBSK-SRCH-20.1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f995ba13-479a-4b75-bd08-bbb9df0ae9c4</testCaseGuid>
+</TestCaseEntity>

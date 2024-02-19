@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create User Group with Valid Data</description>
+   <name>TC-CRT-USR-GRP-07.1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94e26509-99b3-4e75-bd0e-da3dfe1e5fb1</testCaseGuid>
+</TestCaseEntity>

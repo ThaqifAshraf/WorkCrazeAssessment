@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Qualification Creation with Inactive Status</description>
+   <name>TC-ADD-QC-13.3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e1cb819b-a583-401b-91fe-1feb441488c0</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Attempt to Delete User Group with 
+Associated Users</description>
+   <name>TC-DLT-USR-GRP-09.4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>021b6523-20a3-48cf-ba75-8e2cebc73d32</testCaseGuid>
+</TestCaseEntity>

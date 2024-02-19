@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Industry Creation with Inactive Status</description>
+   <name>TC-ADD-IND-10.3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4ce82500-384e-4fd3-996b-f48dcad758cd</testCaseGuid>
+</TestCaseEntity>

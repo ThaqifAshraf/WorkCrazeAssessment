@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Attempt to Delete Inactive Qualification</description>
+   <name>TC-DLT-QC-15.5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6317c748-e959-4bd4-92f4-cf8afcceaf77</testCaseGuid>
+</TestCaseEntity>

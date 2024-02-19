@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_userGroup</name>
+   <tag></tag>
+   <elementGuidId>1d637ebd-cb83-44da-ba4b-e14256c1f32f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.form-control.form-select-design.form-select.ng-untouched.ng-pristine.ng-invalid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5d7491bb-a51f-4b15-9756-15c070f91fd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>user_group_id</value>
+      <webElementGuid>aa8c570e-bef3-4f64-bc61-c9a29e2d4e93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-select-design form-select ng-untouched ng-pristine ng-invalid</value>
+      <webElementGuid>8b6e15f4-a214-40d8-93e5-38046e333171</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> -- Select -- adminTeam LeaderProject ManagerSeniorAssociate LeaderJunior</value>
+      <webElementGuid>c74e03e7-2215-486d-9ee7-4c1df887f9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-header-fixed page-quick-sidebar-over-content&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper d-flex flex-column&quot;]/div[@class=&quot;body flex-grow-1&quot;]/c-container[@class=&quot;h-auto container-lg&quot;]/app-menu-add[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;portlet box blue-steel float-none content-box my-md-4 mx-md-3 border-0&quot;]/div[@class=&quot;portlet-body form bg-transparent p-3 border-0&quot;]/form[@class=&quot;form-horizontal ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;p-3&quot;]/c-row[@class=&quot;mb-3 row&quot;]/c-col[@class=&quot;col-sm-4&quot;]/select[@class=&quot;form-control form-select-design form-select ng-untouched ng-pristine ng-invalid&quot;]</value>
+      <webElementGuid>aafde8c0-a5bc-4cb8-ae08-c3f142a42a37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::select[1]</value>
+      <webElementGuid>6ae848b8-6206-446a-9a44-163487fd70d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::select[1]</value>
+      <webElementGuid>4325c429-fd9e-4244-935a-0c3168445e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>04ebc4ce-f6a9-4d94-a76f-b0373cd046ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = ' -- Select -- adminTeam LeaderProject ManagerSeniorAssociate LeaderJunior' or . = ' -- Select -- adminTeam LeaderProject ManagerSeniorAssociate LeaderJunior')]</value>
+      <webElementGuid>dde6ccdd-abd8-4883-ba3d-7df01ba65c1c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

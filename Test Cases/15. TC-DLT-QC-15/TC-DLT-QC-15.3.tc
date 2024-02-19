@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Deletion Confirmation Cancelled</description>
+   <name>TC-DLT-QC-15.3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7418d0d-8a61-4cf1-866a-6d023f7650c0</testCaseGuid>
+</TestCaseEntity>

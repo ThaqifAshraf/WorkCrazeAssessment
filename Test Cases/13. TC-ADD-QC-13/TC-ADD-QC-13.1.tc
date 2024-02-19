@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Qualification with Valid Data</description>
+   <name>TC-ADD-QC-13.1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bea98499-d028-48b4-a040-c86f1a14e283</testCaseGuid>
+</TestCaseEntity>

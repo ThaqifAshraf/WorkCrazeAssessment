@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Qualification Creation with Special Characters 
+in Title</description>
+   <name>TC-ADD-QC-13.5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>993dea44-08b0-43f1-86af-a4f43da71d65</testCaseGuid>
+</TestCaseEntity>

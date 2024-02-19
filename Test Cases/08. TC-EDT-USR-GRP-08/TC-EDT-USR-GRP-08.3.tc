@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit Group Status Only</description>
+   <name>TC-EDT-USR-GRP-08.3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a94c6038-0982-48b4-903f-a0cd524bef46</testCaseGuid>
+</TestCaseEntity>

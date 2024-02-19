@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search for Non-Existent Job Seeker by Email Address</description>
+   <name>TC-JBSK-SRCH-20.8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fce2141b-c951-4cde-b8d6-bd989ecc63c6</testCaseGuid>
+</TestCaseEntity>

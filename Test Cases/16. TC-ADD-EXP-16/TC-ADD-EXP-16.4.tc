@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Experience Creation with Inactive Status</description>
+   <name>TC-ADD-EXP-16.4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>55710844-3058-4ba9-9a9d-f2ca5b20c7de</testCaseGuid>
+</TestCaseEntity>

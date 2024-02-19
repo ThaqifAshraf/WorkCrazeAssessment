@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Group Creation with Inactive Status</description>
+   <name>TC-CRT-USR-GRP-07.6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bafe9ed-cf95-44b3-8601-b4e201fa45e4</testCaseGuid>
+</TestCaseEntity>

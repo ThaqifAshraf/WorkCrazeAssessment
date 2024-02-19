@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Password Reset Notice for Non-Existent Email</description>
+   <name>TC-PWD-RST-02.2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d150a14-ce98-46bf-a212-dfc68a977419</testCaseGuid>
+</TestCaseEntity>

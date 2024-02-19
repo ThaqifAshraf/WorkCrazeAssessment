@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Attempt to Delete Qualification 
+with Associated Data</description>
+   <name>TC-DLT-QC-15.4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59b2006e-1830-476f-aeb7-0d04b1371710</testCaseGuid>
+</TestCaseEntity>

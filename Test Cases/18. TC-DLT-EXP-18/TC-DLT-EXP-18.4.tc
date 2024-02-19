@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Attempt to Delete Experience with Associated Data</description>
+   <name>TC-DLT-EXP-18.4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a90002c2-b307-4bac-91c0-e74c0ee572ef</testCaseGuid>
+</TestCaseEntity>

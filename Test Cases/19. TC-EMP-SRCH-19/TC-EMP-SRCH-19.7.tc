@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search by Partial Email Address</description>
+   <name>TC-EMP-SRCH-19.7</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a09ef0b2-afad-42ff-9019-0daa7406f1a9</testCaseGuid>
+</TestCaseEntity>

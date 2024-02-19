@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search for Non-Existent Employer by Email Address</description>
+   <name>TC-EMP-SRCH-19.8</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>674d2900-a0c5-4daf-87a6-c5fb7be31ac4</testCaseGuid>
+</TestCaseEntity>

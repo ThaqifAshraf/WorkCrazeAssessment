@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit Industry Status Only</description>
+   <name>TC-EDT-IND-11.4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aba7c2ee-6fc1-47bf-9bed-1a1bbf6e31a5</testCaseGuid>
+</TestCaseEntity>

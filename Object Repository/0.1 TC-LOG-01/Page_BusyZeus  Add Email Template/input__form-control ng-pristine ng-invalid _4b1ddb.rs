@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input__form-control ng-pristine ng-invalid _4b1ddb</name>
+   <tag></tag>
+   <elementGuidId>ab544adf-f888-4b7f-99e8-322a4255266d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.ng-pristine.ng-invalid.ng-touched</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type='text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>67e43a54-effe-4760-8107-4bf416e05afa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>83543de0-a3c3-44aa-ae07-bd8bc06d1771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>7a48d755-b38d-4383-b9f8-9270b21959a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control ng-pristine ng-invalid ng-touched</value>
+      <webElementGuid>c2c25154-1e3e-469e-9663-3734223cb963</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-header-fixed page-quick-sidebar-over-content&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper d-flex flex-column&quot;]/div[@class=&quot;body flex-grow-1&quot;]/c-container[@class=&quot;h-auto container-lg&quot;]/app-email-template-add[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;portlet box blue-steel float-none content-box my-md-4 mx-md-3 border-0&quot;]/div[@class=&quot;portlet-body form bg-transparent p-3 border-0&quot;]/form[@class=&quot;form-horizontal ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;p-3&quot;]/c-row[@class=&quot;mb-3 row&quot;]/c-col[@class=&quot;col-sm-4&quot;]/input[@class=&quot;form-control ng-pristine ng-invalid ng-touched&quot;]</value>
+      <webElementGuid>fb8212d6-1f65-489e-bfcb-af76891da424</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>cef9c2a9-216f-46de-b2f9-87f040167665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>ca9acdb1-c514-4bc3-b993-285d04ffc8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>08f74a8f-1d26-43c6-b502-647069d40798</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

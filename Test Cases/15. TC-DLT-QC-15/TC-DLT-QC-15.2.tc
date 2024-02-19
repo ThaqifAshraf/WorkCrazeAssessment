@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Qualification Deletion Without Confirmation</description>
+   <name>TC-DLT-QC-15.2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daac8f0c-1665-444a-a043-30d1d60c4724</testCaseGuid>
+</TestCaseEntity>

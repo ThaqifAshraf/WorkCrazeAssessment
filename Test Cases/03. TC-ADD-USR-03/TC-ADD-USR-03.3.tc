@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Failed User Creation with Invalid Data</description>
+   <name>TC-ADD-USR-03.3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>72ed19a0-be9d-433b-9fd5-b2043460bfc3</testCaseGuid>
+</TestCaseEntity>

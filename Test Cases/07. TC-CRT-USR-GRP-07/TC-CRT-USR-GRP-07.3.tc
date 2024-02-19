@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Group Creation with Optional 
+Description Skipped</description>
+   <name>TC-CRT-USR-GRP-07.3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8f93315-8d89-4cc2-b901-6f0c08704186</testCaseGuid>
+</TestCaseEntity>

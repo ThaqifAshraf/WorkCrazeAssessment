@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Description</name>
+   <tag></tag>
+   <elementGuidId>e0091dd8-58bd-4602-880e-8d72b3e07662</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.form-control.textarea.rounded-0.ng-untouched.ng-pristine.ng-valid</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>13821635-ddf4-453f-9f1e-3b6d1f4916f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>formcontrolname</name>
+      <type>Main</type>
+      <value>description</value>
+      <webElementGuid>74100a6b-293f-436d-be6e-2a4e0e0d5f70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rows</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>cff17342-5781-4d65-8585-54f73841a893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control textarea rounded-0 ng-untouched ng-pristine ng-valid</value>
+      <webElementGuid>1e3a8432-b7a5-49ec-b51b-893bf8c4bd2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-header-fixed page-quick-sidebar-over-content&quot;]/app-dashboard[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;wrapper d-flex flex-column&quot;]/div[@class=&quot;body flex-grow-1&quot;]/c-container[@class=&quot;h-auto container-lg&quot;]/app-user-group-add[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;portlet box blue-steel float-none content-box my-md-4 mx-md-3 border-0&quot;]/form[@class=&quot;ng-pristine ng-invalid ng-touched&quot;]/div[@class=&quot;portlet-body form bg-transparent p-3 border-0&quot;]/div[@class=&quot;p-3&quot;]/c-row[@class=&quot;mb-3 row&quot;]/c-col[@class=&quot;col-sm-6&quot;]/textarea[@class=&quot;form-control textarea rounded-0 ng-untouched ng-pristine ng-valid&quot;]</value>
+      <webElementGuid>fd0c74cc-0e36-4157-abc0-c7818e0b2339</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>7a91c605-e2ff-4e60-9e40-0ca289cb5521</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

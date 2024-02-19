@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Failed Experience Creation with 
+Duplicate Range</description>
+   <name>TC-ADD-EXP-16.6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ef6d0537-8d02-4ce9-b0f3-abf77a4ac6c7</testCaseGuid>
+</TestCaseEntity>

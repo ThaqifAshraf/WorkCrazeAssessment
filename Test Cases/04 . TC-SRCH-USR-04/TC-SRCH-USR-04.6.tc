@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>No Results Found for Non-Existent Email</description>
+   <name>TC-SRCH-USR-04.6</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f69f7be3-d7f0-4e73-a4ed-ecba1e99da8c</testCaseGuid>
+</TestCaseEntity>

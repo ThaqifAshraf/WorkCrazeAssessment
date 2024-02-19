@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Successful User Search by Email (Exact Match)</description>
+   <name>TC-SRCH-USR-04.4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d1c78635-e66b-4b9d-8f90-4afc4ba45658</testCaseGuid>
+</TestCaseEntity>

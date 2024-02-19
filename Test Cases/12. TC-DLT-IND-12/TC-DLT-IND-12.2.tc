@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Industry Deletion Without Confirmation</description>
+   <name>TC-DLT-IND-12.2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>53c192ac-101b-4765-bdc7-a47f177166c8</testCaseGuid>
+</TestCaseEntity>

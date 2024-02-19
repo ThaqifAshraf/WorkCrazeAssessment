@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Successful User Creation with Valid Data</description>
+   <name>TC-ADD-USR-03.1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>344d6c23-db5e-40d9-bfba-48b07eb16245</testCaseGuid>
+</TestCaseEntity>

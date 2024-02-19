@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Search for Job Seeker by Partial Name</description>
+   <name>TC-JBSK-SRCH-20.2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b75b9beb-1606-4728-b29f-17ad3b7bfce2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit Email Template with Existing Slug 
+(Different Template)</description>
+   <name>TC-EDT-EMLTEMP-23.3</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec40ee6f-502d-4776-b342-167f3dd867e6</testCaseGuid>
+</TestCaseEntity>

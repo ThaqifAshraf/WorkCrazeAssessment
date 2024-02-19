@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Failed User Group Creation with Missing Data</description>
+   <name>TC-CRT-USR-GRP-07.2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26df3d1d-da9f-4997-8267-a2cb13f1948e</testCaseGuid>
+</TestCaseEntity>

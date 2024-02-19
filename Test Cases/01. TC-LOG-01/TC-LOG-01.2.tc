@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Failed Login with Incorrect Email</description>
+   <name>TC-LOG-01.2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9c116381-b894-4bc1-ac73-1d62a42cac44</testCaseGuid>
+</TestCaseEntity>
